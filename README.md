@@ -36,6 +36,11 @@ Each folder contains:
 - **ExampleUsage/**: Contains example implementations to demonstrate the pattern in real-world scenarios.
 - **Template/**: A basic template for implementing the design pattern.
 
+- ## Example Diagram: Observer Pattern
+Below is an example diagram showcasing the **Observer Pattern** and its implementation:
+
+![Observer Pattern Diagram](./Assets/Scheme.png)
+
 ## Design Pattern Categories and Implementations
 
 ### **Creational Patterns**
