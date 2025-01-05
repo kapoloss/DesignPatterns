@@ -39,7 +39,7 @@ Each folder contains:
 - ## Example Diagram: Observer Pattern
 Below is an example diagram showcasing the **Observer Pattern** and its implementation:
 
-![Observer Pattern Diagram](./Assets/Scheme.png)
+![Observer Pattern Diagram](ObserverPattern/Assets/Scheme.png)
 
 ## Design Pattern Categories and Implementations
 
